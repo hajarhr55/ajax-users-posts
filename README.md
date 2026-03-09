@@ -1,5 +1,3 @@
-# AJAX Users & Posts
-
 # AJAX Users & Posts Project ✅
 
 A simple **AJAX project** built with **HTML, CSS, and Vanilla JavaScript**.
